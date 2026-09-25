@@ -1,0 +1,16 @@
+{
+  "name": "guavamc-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "GuavaMC Minecraft network website with admin CMS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "multer": "^2.0.2"
+  }
+}

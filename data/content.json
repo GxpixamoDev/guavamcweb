@@ -1,0 +1,114 @@
+{
+  "site": {
+    "heroImage": "/assets/hero.jpg",
+    "communityImage": "https://originrealms.com/orbit-discord.webp",
+    "economyImage": "",
+    "boxpvpImage": "",
+    "practiceImage": "",
+    "discordUrl": "#",
+    "serverIp": "play.guavamc.fun",
+    "serverCount": "31",
+    "heroMediaType": "auto"
+  },
+  "blogs": [
+    {
+      "id": "blog-1",
+      "title": "Welcome to GuavaMC",
+      "date": "September 2026",
+      "author": "GuavaMC",
+      "excerpt": "Welcome to GuavaMC! Explore Economy, BoxPvP and PracticePvP, collect rewards, compete with friends and build your own journey.",
+      "content": "Welcome to GuavaMC! This is the first official news post. More updates, events and announcements will appear here.",
+      "image": ""
+    },
+    {
+      "id": "blog-2",
+      "title": "New Season, New Adventures",
+      "date": "Coming Soon",
+      "author": "GuavaMC",
+      "excerpt": "A new chapter is on the way. Keep an eye on the news for new maps, rewards, events and gameplay updates.",
+      "content": "More information about the next season will be posted here.",
+      "image": ""
+    },
+    {
+      "id": "blog-3",
+      "title": "Community Events",
+      "date": "Announcement",
+      "author": "GuavaMC",
+      "excerpt": "Take part in community events, challenges and server activities. More details will be announced here.",
+      "content": "Community events and activities will be announced in this post.",
+      "image": ""
+    }
+  ],
+  "guides": [
+    {
+      "id": "guide-1",
+      "title": "Getting Started",
+      "category": "Beginner",
+      "description": "Learn how to join GuavaMC and get started on the network.",
+      "content": "Connect using play.guavamc.net, choose a gamemode and start playing. More detailed guide content can be added from the admin panel.",
+      "image": ""
+    },
+    {
+      "id": "guide-2",
+      "title": "Economy Basics",
+      "category": "Economy",
+      "description": "Learn the basics of earning, trading and spending on GuavaMC.",
+      "content": "Explore the economy, sell items, earn currency and build your balance.",
+      "image": ""
+    },
+    {
+      "id": "guide-3",
+      "title": "PracticePvP Basics",
+      "category": "PvP",
+      "description": "Get ready for practice fights and improve your mechanics.",
+      "content": "Use PracticePvP to warm up, duel players and improve your skills.",
+      "image": ""
+    }
+  ],
+  "team": [
+    {
+      "id": "team-1",
+      "name": "Gxpixamo",
+      "role": "Founder",
+      "roleType": "FOUNDER",
+      "description": "Responsible for the server's systems, updates, moderation and keeping the network running smoothly for everyone.",
+      "image": "https://cdn.discordapp.com/attachments/1525027125747388480/1553041297177317477/122ce96c-7f61-4685-8255-65bd98877626.png?ex=6ab7cdeb&is=6ab67c6b&hm=babbf6131b1aecab0d02499f77b805b5aec7ff4dde4a97227e0a7686cabbcc5c&"
+    },
+    {
+      "id": "team-2",
+      "name": "GuavaMC Team",
+      "role": "Developer",
+      "roleType": "STAFF",
+      "description": "Creating plugins, systems and new gameplay features while improving the experience across every GuavaMC gamemode.",
+      "image": ""
+    },
+    {
+      "id": "team-3",
+      "name": "GuavaMC Team",
+      "role": "Community Staff",
+      "roleType": "STAFF",
+      "description": "Helping players, organizing events and making sure the GuavaMC community stays friendly and active.",
+      "image": ""
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job-1",
+      "title": "Minecraft Developer",
+      "type": "Part-time",
+      "location": "Remote",
+      "description": "Help build plugins, features and systems for GuavaMC.",
+      "buttonText": "APPLY NOW",
+      "applyUrl": "https://example.com/apply"
+    },
+    {
+      "id": "job-2",
+      "title": "Community Staff",
+      "type": "Volunteer",
+      "location": "Remote",
+      "description": "Help players, host events and keep the GuavaMC community welcoming.",
+      "buttonText": "APPLY NOW",
+      "applyUrl": "https://example.com/apply"
+    }
+  ]
+}

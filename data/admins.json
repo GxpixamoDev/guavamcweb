@@ -4,5 +4,11 @@
     "username": "admin",
     "passwordHash": "scrypt:78aa35885b9facf7002d17e198d9dead:97df21a30dd38a3be6fad448e323659e4f9e7a9f2a758a695db470b57ab976dbd20d17b9b96e1a01a5ac285a322fadbd22b275fae5eee042526b62c91545e45a",
     "createdAt": "2026-09-25T13:41:54.617Z"
+  },
+  {
+    "id": "admin-1790349035398-ca7281",
+    "username": "gxpixamodev",
+    "passwordHash": "scrypt:faa1ed74d5d2ff9115115449788b0ecf:29692d403c762a0b0c80c01c468003b47488da86a44c65b18199a5695a0268b0415181bcf64761cb963089de0f4f5d9664956aab617499a15c7b2a17e72ca442",
+    "createdAt": "2026-09-25T15:10:35.447Z"
   }
 ]
